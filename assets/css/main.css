@@ -2573,7 +2573,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/arliss2.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -2758,7 +2758,7 @@
 		/* One */
 
 			#one:before {
-				height: 10em;
+				height: 20em;
 			}
 
 		/* Off-Canvas Navigation */
