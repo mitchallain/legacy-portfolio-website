@@ -2572,8 +2572,8 @@
 
 /* One */
 
-	#one:before {
-		background-image: url("../../images/plasma.jpg");
+	.pagemain #one:before {
+		background-image: url("../../images/arliss2.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
